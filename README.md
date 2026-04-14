@@ -1,2 +1,2 @@
-# C-App-
-C# project 
+# C# App
+This is a test c# app.
